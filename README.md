@@ -254,6 +254,9 @@ Frontend URL:
 ```
 http://localhost:8501
 ```
+<img width="1917" height="877" alt="Screenshot 2026-01-01 201503" src="https://github.com/user-attachments/assets/b6d99394-cbdc-4047-807d-9115b4bd1ada" />
+<img width="1919" height="887" alt="Screenshot 2026-01-01 201436" src="https://github.com/user-attachments/assets/f8330664-84c9-4907-a0a4-1b343a305886" />
+<img width="1919" height="873" alt="Screenshot 2026-01-01 200945" src="https://github.com/user-attachments/assets/dfa50e66-05f6-43d0-9b0e-d17fe748d13a" />
 
 ---
 
@@ -283,31 +286,14 @@ http://localhost:8501
 **Parthasarathi Behera**
 Aspiring AI Engineer | Data Science & Generative AI Enthusiast
 
----
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
-
----
-
-⭐ If you find this project useful, please **star the repository**!
 
 ````
 
 ---
 
-## ✅ WHAT TO DO NEXT
 
-1. Create `README.md`
-2. Paste the above content
-3. Save and push:
-
-```bash
-git add README.md
-git commit -m "Add detailed README with architecture and workflow"
-git push
-````
 
 ---
 
