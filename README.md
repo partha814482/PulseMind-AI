@@ -289,13 +289,5 @@ Aspiring AI Engineer | Data Science & Generative AI Enthusiast
 
 
 
-````
 
----
-
-
-
----
-
-#### 👤 Author: **Parthasarathi Behera**
 
