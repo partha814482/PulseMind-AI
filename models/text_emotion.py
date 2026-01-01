@@ -3,8 +3,9 @@ from transformers import pipeline
 class TextEmotionAnalyzer:
     def __init__(self):
         self.classifier = pipeline(
-            "text-classification",
+            task="text-classification",
             model="j-hartmann/emotion-english-distilroberta-base",
+            framework="pt",              # 🔥 FORCE PYTORCH
             return_all_scores=True
         )
 
